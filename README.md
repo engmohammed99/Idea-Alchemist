@@ -4,7 +4,7 @@
 
 Idea Alchemist is a high-performance, aesthetically driven "Vibe Coding" project built with the latest web technologies. It uses AI to analyze a user's description and generate a visual style, key sections, and a recommended tech stack for their next big project.
 
-![Verification Screenshot](file:///C:/Users/User/.gemini/antigravity/brain/e399828b-40e6-4fb1-a222-dd4ed16fd558/verification_screenshot.png)
+![Verification Screenshot](image.png)
 
 ## 🚀 Experience the Magic
 
